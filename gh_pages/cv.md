@@ -1,8 +1,7 @@
-Имя и фамилия
-Контакты для связи
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+Name: Polina Blokhina
+I never used to work as programmer, but I was quite good at school competitions (had prizer's diploms at all-Russian Olympiad at Programming and Maths), and I like to study new things in programming and want to make programming my profession
+I mostly used Delphi, but can write also on Python, Java and JS. Also used Octave to study machine learning.
+I don't have any experiense of projects, but I passed some courses, for example, https://www.coursera.org/learn/machine-learning (but I didn't pay to get a diploma, so I sadly can't show you certificate on my name)
+My English is between Intermediate and Advanced. I don't really have problems with writing nor reading, speaking and listening can be a bit harder, but not much. I used to live abroad (in Bulgaria) and, if people didn't understand Russian and my Bulgarian wasn't enough for something, we communicated in English without any problems.
+
+Contacts: @tehhie (Telegram), Tehhie#4622 (Discord), Полина Блохина (vk.com), Ника Летняя(facebook). Contact me if you think I can be useful for anything you are interested in.
